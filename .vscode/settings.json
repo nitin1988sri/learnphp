@@ -1,0 +1,13 @@
+{
+    "cmake.configureOnOpen": true,
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "php"
+    ],
+    "vue.codeActions.enabled": false
+}
